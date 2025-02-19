@@ -2,7 +2,7 @@ Gender Inequality Review
 
 Proje Hakkında
 
-Bu proje, Hi-Code Veri Bilimi kapsamında Ceyda Yelkenci, Fatma Nur Kahveci ve Sima Aykut ile birlikte hazırlanmıştır. Çalışmamızda, ülkeler bazında kadın eşitsizlikleri üzerine odaklanan bir veri setini kullanarak analizler gerçekleştirdik.
+Bu proje, Hi-Code Veri Bilimi kapsamında Ceyda Yelkenci ile birlikte hazırlanmıştır. Çalışmamızda, ülkeler bazında kadın eşitsizlikleri üzerine odaklanan bir veri setini kullanarak analizler gerçekleştirdik.
 
 Veri Seti
 
